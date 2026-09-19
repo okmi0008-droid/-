@@ -1,0 +1,1 @@
+{"name":"material-hub","private":true,"version":"0.1.1","type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","tauri":"tauri"},"dependencies":{"@tauri-apps/api":"^2.8.0","vite":"^7.1.0","typescript":"^5.8.0"},"devDependencies":{"@tauri-apps/cli":"^2.8.0"}}
